@@ -1,0 +1,17 @@
+#divClass > h1{
+    color: aqua;
+} 
+#thirdDiv>ul>li>img {
+    width: 500px;
+}
+#thirdDiv{
+    height: 300px;
+    width: 200px;
+    background-color: blue;
+    padding: 50px;
+    border: solid 6px black;
+}
+#spanId {
+    font-size: 50px;
+    margin: 200px;
+}
